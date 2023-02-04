@@ -1,0 +1,4 @@
+repository "RoboRiot@Ricks_Amazing_Games@cloud"
+  path "/"
+    smartbranch "/main/Bake Navmesh" 
+     
